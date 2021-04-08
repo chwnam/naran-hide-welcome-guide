@@ -1,2 +1,4 @@
 # Naran Hide Welcome Guide
-Always hide Gutenber's welcom guide display.
+Always hide Gutenberg's welcome guide display.
+
+![](./welcome-screen.png)
